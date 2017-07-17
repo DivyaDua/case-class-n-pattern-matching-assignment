@@ -5,3 +5,4 @@
 .idea_modules
 .idea_modules/*
 target
+!/target/scala-2.12/src_managed/test/com/knoldus/kip/models/StudentTest.scala
